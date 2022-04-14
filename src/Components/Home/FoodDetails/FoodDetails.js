@@ -4,10 +4,9 @@ import './FoodDetails.css'
 const FoodDetails = () => {
     return (
         <div>
-            <h1> details here</h1>
+            <h1> details</h1>
         </div>
     );
 };
 
 export default FoodDetails;
-
