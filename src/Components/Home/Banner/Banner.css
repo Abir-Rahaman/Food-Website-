@@ -1,0 +1,23 @@
+.full-banner{
+    height: 500px;
+    background-image: url('../../../images/bannerbackground.png');
+    background-size:auto;
+   
+}
+.banner-button{
+    position: relative;
+    right:  154px;
+
+}
+.banner-text{
+    padding-top: 170px;
+}
+.banner-info{
+    margin-left: 150px;
+
+}
+.banner-info button, input {
+    height: 45px;
+
+    
+}

@@ -1,8 +1,5 @@
 import React from 'react';
 import { HiShoppingCart } from "react-icons/hi";
-
-
-
 import logo from "../../images/logo2.png"
 import './Nav.css'
 
