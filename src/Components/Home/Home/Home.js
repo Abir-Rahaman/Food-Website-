@@ -1,10 +1,11 @@
 import React from 'react';
+import Nav from '../../../Shared/Nav/Nav';
 import './Home.css'
 
 const Home = () => {
     return (
         <div>
-            <h1> home</h1>
+           <Nav></Nav>
         </div>
     );
 };
